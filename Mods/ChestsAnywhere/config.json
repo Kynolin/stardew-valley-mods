@@ -1,0 +1,15 @@
+{
+  "ShowHoverTooltips": true,
+  "EnableShippingBin": false,
+  "Range": "None",
+  "Controls": {
+    "Toggle": "B",
+    "PrevChest": "Left, LeftShoulder",
+    "NextChest": "Right, RightShoulder",
+    "PrevCategory": "Up, LeftTrigger",
+    "NextCategory": "Down, RightTrigger",
+    "EditChest": "",
+    "SortItems": ""
+  },
+  "DisabledInLocations": []
+}

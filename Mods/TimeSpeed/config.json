@@ -1,0 +1,17 @@
+{
+  "DefaultTickLength": 14.0,
+  "TickLengthByLocation": {
+    "Indoors": 14.0,
+    "Outdoors": 14.0,
+    "Mine": 14.0
+  },
+  "EnableOnFestivalDays": false,
+  "FreezeTimeAt": null,
+  "LocationNotify": false,
+  "Keys": {
+    "FreezeTime": null,
+    "IncreaseTickInterval": null,
+    "DecreaseTickInterval": null,
+    "ReloadConfig": null
+  }
+}
