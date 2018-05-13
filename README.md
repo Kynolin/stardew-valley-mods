@@ -10,7 +10,7 @@ SMAPI needs to already be installed and configured. See: https://smapi.io
 1. Click the green `Clone or download` button.
 2. Click `Download ZIP`
 3. Unzip the file. It unzips a directory called stardew-valley-mods-master.
-4. Copy all files into your Stardew Valley folder.
+4. Copy the 'Mods' directory into your Stardew Valley folder.
 
 Note: The README.md file doesn't need to be copied. That's just for Git.
 
@@ -19,14 +19,14 @@ Note: The README.md file doesn't need to be copied. That's just for Git.
 Activate Sprinklers\
 https://www.nexusmods.com/stardewvalley/mods/2088
 
-Calendar Anywhere\
-https://github.com/Zoryn4163/SMAPI-Mods/releases
+Better Artisan Good Icons\
+https://www.nexusmods.com/stardewvalley/mods/2080
+
+Chat Commands\
+https://www.nexusmods.com/stardewvalley/mods/2092
 
 Chests Anywhere\
 https://www.nexusmods.com/stardewvalley/mods/518
-
-CJB Show Item Sell Price\
-https://www.nexusmods.com/stardewvalley/mods/5
 
 Community Bundle Item Tooltip\
 https://www.nexusmods.com/stardewvalley/mods/1329
@@ -37,6 +37,9 @@ https://community.playstarbound.com/threads/migrating-xnb-mods-to-content-patche
 
 Content Patcher\
 https://www.nexusmods.com/stardewvalley/mods/1915
+
+Discord Rich Presence\
+https://www.nexusmods.com/stardewvalley/mods/2156
 
 Experience Bars\
 https://www.nexusmods.com/stardewvalley/mods/509
@@ -57,9 +60,6 @@ https://community.playstarbound.com/threads/migrating-xnb-mods-to-content-patche
 Range Display\
 https://www.nexusmods.com/stardewvalley/mods/1179
 
-Simple Crop Label\
-https://www.nexusmods.com/stardewvalley/mods/314
-
 Skip Intro\
 https://www.nexusmods.com/stardewvalley/mods/533
 
@@ -68,9 +68,6 @@ https://www.nexusmods.com/stardewvalley/mods/169
 
 UI Info Suite\
 https://www.nexusmods.com/stardewvalley/mods/1150
-
-Walk Through Trellis\
-https://www.nexusmods.com/stardewvalley/mods/1958
 
 Wheres My Items\
 https://www.nexusmods.com/stardewvalley/mods/2086
