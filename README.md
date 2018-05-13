@@ -32,7 +32,7 @@ Community Bundle Item Tooltip\
 https://www.nexusmods.com/stardewvalley/mods/1329
 
 Character Portrait Overhaul (Content Pack)\
-https://www.nexusmods.com/stardewvalley/mods/13\
+https://www.nexusmods.com/stardewvalley/mods/13 \
 https://community.playstarbound.com/threads/migrating-xnb-mods-to-content-patcher-packs.141577/page-5#post-3272744
 
 Content Patcher\
@@ -51,7 +51,7 @@ Mood Fix\
 https://www.nexusmods.com/stardewvalley/mods/1809
 
 No More Bowlegs (Content Pack)\
-https://www.nexusmods.com/stardewvalley/mods/346\
+https://www.nexusmods.com/stardewvalley/mods/346 \
 https://community.playstarbound.com/threads/migrating-xnb-mods-to-content-patcher-packs.141577/#post-3259723
 
 Range Display\
