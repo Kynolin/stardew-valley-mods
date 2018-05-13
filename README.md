@@ -14,13 +14,23 @@ SMAPI needs to already be installed and configured. See: https://smapi.io
 
 Note: The README.md file doesn't need to be copied. That's just for Git.
 
+## Content Packs
+
+Better Artisan Good Icons\
+https://www.nexusmods.com/stardewvalley/mods/2080
+
+Character Portrait Overhaul\
+https://www.nexusmods.com/stardewvalley/mods/13 \
+https://community.playstarbound.com/threads/migrating-xnb-mods-to-content-patcher-packs.141577/page-5#post-3272744
+
+No More Bowlegs\
+https://www.nexusmods.com/stardewvalley/mods/346 \
+https://community.playstarbound.com/threads/migrating-xnb-mods-to-content-patcher-packs.141577/#post-3259723
+
 ## Mod List
 
 Activate Sprinklers\
 https://www.nexusmods.com/stardewvalley/mods/2088
-
-Better Artisan Good Icons\
-https://www.nexusmods.com/stardewvalley/mods/2080
 
 Chat Commands\
 https://www.nexusmods.com/stardewvalley/mods/2092
@@ -30,10 +40,6 @@ https://www.nexusmods.com/stardewvalley/mods/518
 
 Community Bundle Item Tooltip\
 https://www.nexusmods.com/stardewvalley/mods/1329
-
-Character Portrait Overhaul (Content Pack)\
-https://www.nexusmods.com/stardewvalley/mods/13 \
-https://community.playstarbound.com/threads/migrating-xnb-mods-to-content-patcher-packs.141577/page-5#post-3272744
 
 Content Patcher\
 https://www.nexusmods.com/stardewvalley/mods/1915
@@ -53,10 +59,6 @@ https://github.com/Zoryn4163/SMAPI-Mods/releases
 Mood Fix\
 https://www.nexusmods.com/stardewvalley/mods/1809
 
-No More Bowlegs (Content Pack)\
-https://www.nexusmods.com/stardewvalley/mods/346 \
-https://community.playstarbound.com/threads/migrating-xnb-mods-to-content-patcher-packs.141577/#post-3259723
-
 Range Display\
 https://www.nexusmods.com/stardewvalley/mods/1179
 
@@ -71,3 +73,12 @@ https://www.nexusmods.com/stardewvalley/mods/1150
 
 Wheres My Items\
 https://www.nexusmods.com/stardewvalley/mods/2086
+
+## Configuration Changes
+
+Chests Anywhere\
+EnableShippingBin: false
+Range: None
+
+Experience Bars\
+Show/Hide: Z
