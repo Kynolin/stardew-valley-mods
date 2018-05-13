@@ -1,0 +1,12 @@
+{
+   "Name": "Character Portrait Overhauls",
+   "Author": "kamirose",
+   "Version": "1.0.0",
+   "Description": "Unofficial Conversion of Character Portrait Overhauls Mod",
+   "UniqueID": "kamirose.CharacterPortraitOverhauls",
+   "MinimumApiVersion": "2.5",
+   "UpdateKeys": [],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+   }
+}

@@ -1,0 +1,12 @@
+{
+    "Name": "NoMoreBowlegs",
+    "Author": "Chrysanthe",
+    "Version": "1.0.0",
+    "Description": "Unofficial conversion of Chrysanthe's No More Bowlegs mod for Content Patcher.",
+    "UniqueID": "Chrysanthe.NoMoreBowlegs",
+    "MinimumApiVersion": "2.5",
+    "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher",
+    "MinimumVersion":"1.0.0"
+    }
+}
