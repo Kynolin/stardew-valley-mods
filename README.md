@@ -16,6 +16,8 @@ Note: The README.md file doesn't need to be copied. That's just for Git.
 
 ## Content Packs
 
+**Note:** These content packs change artwork in the game.
+
 Better Artisan Good Icons\
 https://www.nexusmods.com/stardewvalley/mods/2080
 
