@@ -1,7 +1,7 @@
 ﻿{
    "Name": "UI Info Suite",
    "Author": "Cdaragorn",
-   "Version": "1.7.4",
+   "Version": "1.7.3-unofficial.1.mizzion",
    "Description": "Adds a lot of useful information to the user interface. This is based on Demiacle's excellent UIModSuite.",
    "UniqueID": "Cdaragorn.UiInfoSuite",
    "EntryDll": "UIInfoSuite.dll",
