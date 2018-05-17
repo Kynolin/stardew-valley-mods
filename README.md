@@ -14,6 +14,8 @@ SMAPI needs to already be installed and configured. See: https://smapi.io
 
 Note: The README.md file doesn't need to be copied. That's just for Git.
 
+Note: The mod list and links are manually updated by me. They might be more out of date than the mods in this repo.
+
 ## Content Packs
 
 **Note:** These content packs change artwork in the game.
